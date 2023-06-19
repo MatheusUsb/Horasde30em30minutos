@@ -6,6 +6,4 @@ import time
 while True:
     current_time = datetime.datetime.now()
     print("Hora atual:", current_time.strftime("%H:%M:%S"))
-
-    # Aguarda 30 minutos
     time.sleep(30 * 60)
