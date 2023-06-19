@@ -1,5 +1,7 @@
 # Horasde30em30minutos
 # Você pode executar esse script em python e ele mostrará a hora atual a cada 30 minutos
+#Segue o Script
+
 import datetime
 import time
 
